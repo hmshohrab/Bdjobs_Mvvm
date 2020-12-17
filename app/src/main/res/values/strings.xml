@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BdJobs.com</string>
+    <string name="position_name">Position Name</string>
+    <string name="deadline">Deadline:</string>
+    <string name="_16_december_2020">16 December 2020</string>
+    <string name="experince">Experince</string>
+    <string name="_1_to_2_years">1 to 2 years</string>
+    <string name="education">Education</string>
+    <string name="bse_in_engineering">BSE in Engineering</string>
+    <string name="bdjobs_com">Bdjobs.com</string>
+    <string name="apply_now">Apply Now</string>
+    <string name="salary">Salary</string>
+    <string name="location">Location</string>
+    <string name="vacancies">Vacancies</string>
+    <string name="not_specific">Not Specific</string>
+</resources>
