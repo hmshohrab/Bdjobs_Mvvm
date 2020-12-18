@@ -6,7 +6,6 @@ Very basic Kotlin implementation following MVVM architecture using the latest co
 - MVVM architecture
 - Repository pattern
 - Rxjava2 
-- Room Persistence DB
 - Retrofit 2
 - Material Design
 - Epoxy
@@ -16,4 +15,4 @@ Very basic Kotlin implementation following MVVM architecture using the latest co
 
 <br>
 
-<a href="https://raw.githubusercontent.com/hmshohrab/SimpleTask/master/app/release/SimpleTask.apk?token=ALNFVHXCVCYKWJHUJ7M732C67BCD4">Download Demo Apk:</a>
+<a href="https://github.com/hmshohrab/Bdjobs_Mvvm/raw/master/bdjobs_mvvm.apk">Download Demo Apk:</a>
