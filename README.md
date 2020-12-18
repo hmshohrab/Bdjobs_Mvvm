@@ -12,7 +12,7 @@ Very basic Kotlin implementation following MVVM architecture using the latest co
 - Epoxy
 
 <img src="Screenshot_1.jpg?raw=true"/> 
-<img src="screenshots/Screenshot_2.jpg?raw=true"/> 
+<img src="Screenshot_2.jpg?raw=true"/> 
 
 <br>
 
